@@ -13,7 +13,7 @@ A Colorado Board of Elections employee has given me the following tasks to compl
 - Data Source: election_results.csv
 - Software: Python 3.9.1, Visual Studio Code 1.52
 
-##Summary
+## Summary
 The analysis of the election shows that:
 - There were 369,711 votes cast in the election.
 - The candidates were:
@@ -27,6 +27,6 @@ The analysis of the election shows that:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 votes.
   
-##Challenge Overview
+## Challenge Overview
 
-##Challenge Summary
+## Challenge Summary
